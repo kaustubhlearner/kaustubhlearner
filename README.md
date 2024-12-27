@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [portfolio-alpha-nine-97.vercel.app](portfolio-alpha-nine-97.vercel.app)
+- 👨‍💻 All of my projects are available at [https://kaustubhportfolio108.netlify.app/]
 
 - 💬 Ask me about **WebDeveloper**
 
