@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://kaustubhportfolio108.netlify.app/]
+- 👨‍💻 All of my projects are available at https://kaustubhportfolio108.netlify.app/
 
 - 💬 Ask me about **WebDeveloper**
 
