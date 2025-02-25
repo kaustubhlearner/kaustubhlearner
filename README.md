@@ -7,7 +7,7 @@
 
 - 🚀 I’m currently working with **React**
 - 👨‍💻 Check out my portfolio: [Kaustubh's Portfolio](https://kaustubhportfolio108.netlify.app/)
-- 💬 Ask me about **Web Development & UI/UX**
+- 💬 Ask me about **Web Development**
 - 📫 Reach me at: **kaustubhpandey81788@gmail.com**
 
 ---
@@ -49,6 +49,9 @@
   </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+  </a>
+  <a href="https://vercel.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="vercel" width="40" height="40"/>
   </a>
 </p>
 
